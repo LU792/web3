@@ -10,8 +10,8 @@ function Router() {
         <BrowserRouter>
         <switch>
         <Route path="/" exact component={home} />
-        <Route path="/contatos" exact component={contatos} />
-        <Route path="/ferramentas" exact component={ferramentas} />
+        <Route path="/contatos" component={contatos} />
+        <Route path="/ferramentas" component={ferramentas} />
         
         </switch>
             </BrowserRouter>
