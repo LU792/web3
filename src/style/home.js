@@ -29,21 +29,21 @@ function home (){
     <div>
     <ul className="menu">
       <li>
-        <a href="">Home</a>
+      <Link to="">Home</Link>
         <div className="submenu">
           <h1>HOME</h1>
           <p>adicione suas fotos ou atualize as atuais.</p>
         </div>
       </li>
       <li>
-        <a href="">Sobre</a>
+      <Link to="">Sobre</Link>
         <div className="submenu">
           <h1>SOBRE</h1>
           <p>Tudo sobre a empresa e seus processos.</p>
         </div>
       </li>
       <li>
-        <a href="">Currículo</a>
+      <Link to="">Currículo</Link>
         <div className="submenu">
           <h1>Currículo</h1>
           <p>Baixar<br></br>Visualisar</p>
