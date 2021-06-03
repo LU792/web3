@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/LU792/web3.git/static/css/main.a5398ca2.chunk.css",
+    "main.js": "/LU792/web3.git/static/js/main.d8d7b6e8.chunk.js",
+    "main.js.map": "/LU792/web3.git/static/js/main.d8d7b6e8.chunk.js.map",
+    "runtime-main.js": "/LU792/web3.git/static/js/runtime-main.5288d379.js",
+    "runtime-main.js.map": "/LU792/web3.git/static/js/runtime-main.5288d379.js.map",
+    "static/css/2.1cbcad4d.chunk.css": "/LU792/web3.git/static/css/2.1cbcad4d.chunk.css",
+    "static/js/2.9d9c539d.chunk.js": "/LU792/web3.git/static/js/2.9d9c539d.chunk.js",
+    "static/js/2.9d9c539d.chunk.js.map": "/LU792/web3.git/static/js/2.9d9c539d.chunk.js.map",
+    "static/js/3.a546b46d.chunk.js": "/LU792/web3.git/static/js/3.a546b46d.chunk.js",
+    "static/js/3.a546b46d.chunk.js.map": "/LU792/web3.git/static/js/3.a546b46d.chunk.js.map",
+    "index.html": "/LU792/web3.git/index.html",
+    "static/css/2.1cbcad4d.chunk.css.map": "/LU792/web3.git/static/css/2.1cbcad4d.chunk.css.map",
+    "static/css/main.a5398ca2.chunk.css.map": "/LU792/web3.git/static/css/main.a5398ca2.chunk.css.map",
+    "static/js/2.9d9c539d.chunk.js.LICENSE.txt": "/LU792/web3.git/static/js/2.9d9c539d.chunk.js.LICENSE.txt",
+    "static/media/c.9649b49d.jpg": "/LU792/web3.git/static/media/c.9649b49d.jpg",
+    "static/media/cc.a8648c1f.jpg": "/LU792/web3.git/static/media/cc.a8648c1f.jpg",
+    "static/media/contatos.css": "/LU792/web3.git/static/media/contatos.ff8ef20d.jpg",
+    "static/media/f11.e0bb7941.jpg": "/LU792/web3.git/static/media/f11.e0bb7941.jpg",
+    "static/media/instagram.2b91f56f.png": "/LU792/web3.git/static/media/instagram.2b91f56f.png",
+    "static/media/java.4621b3cc.jpg": "/LU792/web3.git/static/media/java.4621b3cc.jpg",
+    "static/media/my-sql.1ee7f22c.jpg": "/LU792/web3.git/static/media/my-sql.1ee7f22c.jpg",
+    "static/media/home.css": "/LU792/web3.git/static/media/pages.ae14b5c7.jpg",
+    "static/media/php.8e070311.jpg": "/LU792/web3.git/static/media/php.8e070311.jpg",
+    "static/media/php1.87f6bea3.jpg": "/LU792/web3.git/static/media/php1.87f6bea3.jpg",
+    "static/media/whatsapp.6e53c09e.png": "/LU792/web3.git/static/media/whatsapp.6e53c09e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5288d379.js",
+    "static/css/2.1cbcad4d.chunk.css",
+    "static/js/2.9d9c539d.chunk.js",
+    "static/css/main.a5398ca2.chunk.css",
+    "static/js/main.d8d7b6e8.chunk.js"
+  ]
+}
